@@ -8,7 +8,7 @@ function Page1() {
       <meta name="title" content="Page 1" />
       <FullSizeCentered>
         <Typography variant="h3">Page 1</Typography>
-        <Typography variant="h3">New update</Typography>
+        <Typography variant="h3">Latest update</Typography>
       </FullSizeCentered>
     </>
   );
